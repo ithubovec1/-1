@@ -78,7 +78,7 @@
             width: 100%;
         }
         
-        /* Страницы */
+       
         .page {
             min-height: 100vh;
             padding: 100px 0;
